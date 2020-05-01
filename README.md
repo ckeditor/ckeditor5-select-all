@@ -1,6 +1,10 @@
 CKEditor 5 select all feature
 ===========================
 
+<h3 align=center>⚠⚠ This repository was moved ⚠⚠</h3>
+
+<p align=center>The package was moved to the <a href="https://github.com/ckeditor/ckeditor5/tree/master/packages">main repository</a>.</p>
+
 [![npm version](https://badge.fury.io/js/%40ckeditor%2Fckeditor5-select-all.svg)](https://www.npmjs.com/package/@ckeditor/ckeditor5-select-all)
 [![Dependency Status](https://david-dm.org/ckeditor/ckeditor5-select-all/status.svg)](https://david-dm.org/ckeditor/ckeditor5-select-all)
 [![devDependency Status](https://david-dm.org/ckeditor/ckeditor5-select-all/dev-status.svg)](https://david-dm.org/ckeditor/ckeditor5-select-all?type=dev)
